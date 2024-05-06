@@ -1,3 +1,1 @@
-Great seeing you!
-I had a great time!
-Lovely to meet you.
+Thank you for interacting with me.

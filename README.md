@@ -1,1 +1,1 @@
-Tanvirkaur
+hunspell-yi

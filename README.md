@@ -1,1 +1,1 @@
-hunspell-yi
+tYPESCRIPT.TOOLs

@@ -1,3 +1,0 @@
-dXZxWa
-:sleeping:
-:sob:

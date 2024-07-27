@@ -1,1 +1,1 @@
-It is fun chatting with you!
+-mining_monitor

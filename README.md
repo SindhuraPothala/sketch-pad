@@ -1,1 +1,1 @@
--mining_monitor
+NrUQGsT9fm

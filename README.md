@@ -1,2 +1,1 @@
-08YsSOa0C
-svg-path-command
+nppFhajL3J

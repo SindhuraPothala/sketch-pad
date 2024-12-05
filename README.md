@@ -1,2 +1,1 @@
-oAlF
-:hear_no_evil:
+I’m looking forward to working with you.

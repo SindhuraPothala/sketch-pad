@@ -1,2 +1,1 @@
-GL7tR
-react-redUX-STREMEE
+9pUG

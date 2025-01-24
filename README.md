@@ -1,3 +1,1 @@
-It is fun chatting with you.
-my--HTML-resume6
-js-tarefas
+I’m pleased to be able to interact with you.

@@ -1,2 +1,0 @@
-MeO
-:black_heart:

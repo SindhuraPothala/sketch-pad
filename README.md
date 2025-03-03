@@ -1,3 +1,0 @@
-worldexample
-:frowning:
-:dizzy:

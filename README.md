@@ -1,1 +1,2 @@
 ccKztP3Ks
+pythonEmailPriceLoader

@@ -1,2 +1,1 @@
-It was nice talking to you.
-study-node
+Nice to hear from you!

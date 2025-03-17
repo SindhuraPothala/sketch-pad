@@ -1,4 +1,1 @@
-FjO
-:black_heart:
-gaugesync-
-:stuck_out_tongue_winking_eye:
+I can’t wait to catch up with you again.

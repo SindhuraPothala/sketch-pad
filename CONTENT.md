@@ -1,2 +1,0 @@
-bYOKinBEOj
-android-project-moviecatalogue

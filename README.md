@@ -1,2 +1,1 @@
-:kissing_cat:
-:japanese_ogre:
+r9hAncg

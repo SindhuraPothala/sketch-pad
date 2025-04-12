@@ -1,2 +1,0 @@
-Rqo0pwtcp
-Linearoptimization

@@ -1,1 +1,1 @@
-:right_anger_bubble:
+0Rw

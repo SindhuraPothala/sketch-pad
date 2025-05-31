@@ -1,1 +1,1 @@
-How do you do?
+Nice to hear from you.

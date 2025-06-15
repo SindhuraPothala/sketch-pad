@@ -1,1 +1,1 @@
-tests_SIMA_app_homepage
+It was nice meeting you!

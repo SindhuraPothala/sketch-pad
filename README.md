@@ -1,1 +1,1 @@
-mnist_READER
+tests_SIMA_app_homepage

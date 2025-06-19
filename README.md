@@ -1,2 +1,0 @@
-vipe
-spring-demo-one

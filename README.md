@@ -1,1 +1,1 @@
-It is fun chatting with you!
+It is fun talking to you!

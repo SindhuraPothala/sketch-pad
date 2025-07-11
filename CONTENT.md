@@ -1,3 +1,1 @@
-eX.RUBy
-:tired_face:
-mowjaz-ir
+L5HY

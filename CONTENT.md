@@ -1,1 +1,1 @@
-Thanks for getting in touch!
+Thank you for your visit!

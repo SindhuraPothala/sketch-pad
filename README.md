@@ -1,1 +1,1 @@
-:money_mouth_face:
+pDw07VE

@@ -1,2 +1,1 @@
-VQT
-:cursing_face:
+psD6lUKQMmk

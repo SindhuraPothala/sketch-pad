@@ -1,2 +1,1 @@
-Sdt
-:crying_cat_face:
+How wonderful to meet you!

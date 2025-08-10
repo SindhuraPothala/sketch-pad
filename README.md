@@ -1,2 +1,1 @@
-Great seeing you!
-sos10
+It is fun chatting with you.

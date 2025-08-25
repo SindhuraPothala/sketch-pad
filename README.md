@@ -1,2 +1,1 @@
-SseD
-RASELARNEL
+Thank you for your visit!

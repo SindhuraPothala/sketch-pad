@@ -1,1 +1,1 @@
-crypto-rates-realtime
+tj1c96cuw2c

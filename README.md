@@ -1,2 +1,1 @@
-gotype
-Thank you for interacting with me.
+I had a great meeting!

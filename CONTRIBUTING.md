@@ -1,1 +1,1 @@
-YqM2FkMDdN
+node-checkpoints-generator

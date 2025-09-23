@@ -1,2 +1,1 @@
-SLI7Y
-It’s a pleasure to meet you.
+Pleased to meet you!

